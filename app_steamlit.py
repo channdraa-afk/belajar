@@ -5,7 +5,7 @@ st.markdown("Perkenalkan nama saya Channdraaa")
 
 st.balloons()
 st.snow()
-st.thunders()
+
 
 
 
