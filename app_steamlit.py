@@ -6,7 +6,8 @@ st.header("Perkenalkan nama saya Channdraaa")
 
 st.balloons()
 st.snow()
-st.success("Selamat Project pertamanya")
+st.success("Ini baru project pertama saya ehehehe")
+
 
 
 
